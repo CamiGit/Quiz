@@ -4,7 +4,7 @@ A trivia quiz web app built with **React + TypeScript + Tailwind CSS**, powered 
 
 Developed by **Forge/**
 
-## 📸 Preview
+## Preview
 
 | Start Screen | Quiz Screen | Results Screen |
 |---|---|---|
@@ -12,7 +12,7 @@ Developed by **Forge/**
 
 ---
 
-## ✨ Features
+## Features
 
 - 10 random multiple-choice trivia questions fetched from the Open Trivia Database
 - Alternating light/dark theme per question for a dynamic visual experience
@@ -23,7 +23,7 @@ Developed by **Forge/**
 
 ---
 
-## 🗂️ Project Structure
+##  Project Structure
 
 ```
 src/
@@ -38,7 +38,7 @@ src/
 
 ---
 
-## 🚀 Getting Started
+## Getting Started
 
 ### Prerequisites
 
@@ -48,7 +48,7 @@ src/
 ### Installation
 
 ```bash
-git clone https://github.com/your-username/quizzler.git
+git clone https://github.com/CamiGit/Quiz.git
 cd quizzler
 npm install
 ```
@@ -67,7 +67,7 @@ npm run build
 
 ---
 
-## 🔌 API
+## API
 
 Questions are fetched from the [Open Trivia Database](https://opentdb.com/):
 
@@ -79,7 +79,7 @@ The app fetches 10 multiple-choice questions on each game start. No API key requ
 
 ---
 
-## 🎨 Design
+## Design
 
 - **Color palette:** `#2431ca` / `#3444fb` (blue), `#2c2c2c` (dark), `#d5dce8` (light gray)
 - **Typography:** Arial Black (uppercase headings)
@@ -88,7 +88,7 @@ The app fetches 10 multiple-choice questions on each game start. No API key requ
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 | Tech | Purpose |
 |---|---|
@@ -98,12 +98,5 @@ The app fetches 10 multiple-choice questions on each game start. No API key requ
 | Vite | Build tool |
 | Open Trivia DB | Questions API |
 
----
-
-## 📄 License
-
-MIT — feel free to use, modify, and distribute.
-
----
 
 <p align="center">Made with ♥ by <strong>Forge/</strong></p>
