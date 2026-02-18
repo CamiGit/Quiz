@@ -38,35 +38,6 @@ src/
 
 ---
 
-## Getting Started
-
-### Prerequisites
-
-- Node.js >= 18
-- npm or yarn
-
-### Installation
-
-```bash
-git clone https://github.com/CamiGit/Quiz.git
-cd quizzler
-npm install
-```
-
-### Run in development
-
-```bash
-npm run dev
-```
-
-### Build for production
-
-```bash
-npm run build
-```
-
----
-
 ## API
 
 Questions are fetched from the [Open Trivia Database](https://opentdb.com/):
@@ -99,4 +70,4 @@ The app fetches 10 multiple-choice questions on each game start. No API key requ
 | Open Trivia DB | Questions API |
 
 
-<p align="center">Made with ♥ by <strong>Forge/</strong></p>
+<p align="center">Made with ♥ by <strong>CAMILO</strong></p>
