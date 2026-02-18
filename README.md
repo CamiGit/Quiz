@@ -69,5 +69,3 @@ The app fetches 10 multiple-choice questions on each game start. No API key requ
 | Vite | Build tool |
 | Open Trivia DB | Questions API |
 
-
-<p align="center">Made <strong>CAMILO</strong></p>
