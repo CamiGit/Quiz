@@ -70,4 +70,4 @@ The app fetches 10 multiple-choice questions on each game start. No API key requ
 | Open Trivia DB | Questions API |
 
 
-<p align="center">Made with ♥ by <strong>CAMILO</strong></p>
+<p align="center">Made with<strong>CAMILO</strong></p>
